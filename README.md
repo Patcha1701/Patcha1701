@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Librarian
 ---------
 
-I've been leaning information study program Burapha University, Chonburi, Thailand
+I've been learning information study program Burapha University, Chonburi, Thailand
 
 * 🌍  I'm based in Chonburi
 * ✉️  You can contact me at [tea131me@gmail.com](mailto:tea131me@gmail.com)
